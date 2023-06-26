@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.contact-infor {
+  width: 400px;
+  background-color: #3b71ca;
+  color: aliceblue;
+  padding: 20px;
+  box-shadow: 10px 10px 8px 10px #888888;
+  border-radius: 10px;
+}
